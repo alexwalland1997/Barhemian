@@ -6,7 +6,7 @@ export default function navbar () {
          <Navbar collapseOnSelect expand="lg" className="navbar">
          <Container>
             <Navbar.Brand href="#home">
-                <img src="logo.jpg" className="logo" alt="barhemian"/>
+                <img src="https://raw.githubusercontent.com/alexwalland1997/Barhemian/main/logo.jpg" className="logo" alt="barhemian"/>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav" className="dropDown ">
